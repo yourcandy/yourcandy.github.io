@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 'HTML5标签们的新朋友0'
-date: 2020-04-21
-author: 王鹏飞
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
-tags: HTML5
+title: 'HTML5标签们的新朋友'
+subtitle: 'HTML5'
+date: 2020-04-18
+categories: 技术
+cover: 'https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1252601475,3639239527&fm=26&gp=0.jpg'
+tags:  前端
 ---
-
 
 ```
 你们知道什么是HTML5么？就是在HTML4基础上修改后做的升级版本啊！（嘻嘻！是不是感觉跟没说没啥区别呢）本期我们就来看一下HTML标签的一些新面孔！
@@ -116,3 +116,7 @@ tags: HTML5
 ## 5.新增表单属性
 
 <img src="C:/Users/Shinelon/Documents/Tencent%20Files/545082571/FileRecv/04-06%20%E7%A7%BB%E5%8A%A8Web%E7%BD%91%E9%A1%B5%E5%BC%80%E5%8F%91/04-06%20%E7%A7%BB%E5%8A%A8Web%E7%BD%91%E9%A1%B5%E5%BC%80%E5%8F%91/01-H5C3%20%E8%BF%9B%E9%98%B6%E8%B5%84%E6%96%99/01-HTML5CSS3_day01/01-%E7%AC%94%E8%AE%B0/images/newinput.png">
+
+
+
+
