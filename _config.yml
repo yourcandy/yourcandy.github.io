@@ -57,7 +57,7 @@ postPatterns: 'circuitBoard'
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
   weibo: '//weibo.com/lovecolcol'
-  juejin: '//5e9e8052f265da47cb312856'
+  juejin: '//juejin.im/user/5e9e8052f265da47cb312856'
   github: '//github.com/yourcandy'
 
 # Tags 设置标签
