@@ -38,7 +38,7 @@ nightMode: true
 # Comments 评论功能
 comments:
   disqus: true
-  disqus_url: 'https://liaokeyu.disqus.com/embed.js'
+  disqus_url: 'https://cdn.bootcss.com/embed-js/5.0.4/embed.js'
   gitalk: true
   gitalk_clientID: '62e10b0709273f23d948'
   gitalk_Secret: '6068e2833d7b68bbf489b52d949928dd187b488a'
